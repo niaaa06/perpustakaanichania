@@ -36,7 +36,7 @@
       <div class="d-flex flex-wrap justify-content-center">
         <div class="col mt-5">
          <h2 class="fw-bold text-success"><span class="text-primary">Cuy</span>Perpus</h2>
-          <p class="mb-4">"Temukan Dunia Pengetahuan di Ujung Jari Anda: <br> Perpustakaan Online <span class="fw-bold">CuyPerpus</span> Membawa Anda ke Dunia Buku Digital."</p>
+          <p class="mb-4">"Temukan Dunia Pengetahuan di Ujung Jari Anda: <br> Perpustakaan Online <span class="fw-bold">CuyPerpus</span> Membawa Anda ke Dunia Buku impian."</p>
           <a class="btn btn-primary" href="sign/link_login.html">Get started</a>
         </div>
         <div class="col mt-3">
@@ -95,4 +95,5 @@
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
+
 </html>
